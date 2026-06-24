@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Header GIF/Animation -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtNHRqdHJ6bHRzajl0azFwb3o4dmVrbTZtMTJ4dDgxZHd5anE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding Banner" />
+  <!-- Header Banner -->
+  <img src="assets/github_profile_banner.png" width="100%" alt="Hithesh Sundararajan Banner" style="border-radius: 8px;" />
 
   <br/><br/>
 
-  <!-- Profile Visitor Counter -->
+  <!-- Profile Visitor Counter & Badge stats -->
   <img src="https://komarev.com/ghpvc/?username=hithesh916&color=4285F4&style=flat-square&label=Profile+Views" alt="hithesh916 Views" />
 
   <br/><br/>
@@ -15,9 +15,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Hithesh+Sundararajan;Full+Stack+Developer;Data+Analytics+Enthusiast;Welcome+to+my+GitHub!+✨" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    A passionate developer from Chennai, India, focusing on building high-performance web applications and extracting insights from data.
-  </p>
+  <br/>
 
   <!-- Social Icons with Simple Icons & Badges -->
   <a href="https://www.linkedin.com/in/hithesh-sundararajan/" target="_blank">
@@ -34,72 +32,113 @@
 
 <hr/>
 
+### 💫 About Me
+
+I am a passionate **Full Stack Developer** and **Data Analytics Enthusiast** based in **Chennai, India** 📍. My expertise lies in engineering high-performance web applications, designing intuitive user interfaces, and leveraging data to solve complex real-world challenges.
+
+*   🔭 **Current Focus**: Designing and scaling full-stack applications with modern web ecosystems.
+*   📊 **Interests**: Machine Learning, Data Visualization, and Cloud Infrastructure.
+*   🤝 **Collaboration**: Open to open-source contributions, technical writing, and innovative startup ideas.
+*   ⚡ **Fun Fact**: I love writing modular, readable code and optimizing runtime complexity.
+
+<hr/>
+
 ### 🛠️ Core Technologies & Skills
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Languages & Core</h4>
-      <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+    <td valign="top" width="33%">
+      <h4 align="center">💻 Languages</h4>
+      <p align="center">
+        <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <h4>🚀 Frameworks & Tools</h4>
-      <img src="https://img.shields.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <td valign="top" width="33%">
+      <h4 align="center">🚀 Frameworks & Libs</h4>
+      <p align="center">
+        <img src="https://img.shields.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+      </p>
+    </td>
+    <td valign="top" width="33%">
+      <h4 align="center">🔧 Tools & Workflow</h4>
+      <p align="center">
+        <img src="https://img.shields.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+        <img src="https://img.shields.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      </p>
     </td>
   </tr>
 </table>
 
 <hr/>
 
-### 📈 GitHub Statistics & Language Breakdown
+### 🗂️ Featured Repositories
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/hithesh916/-Resume-Matcher-Project">Resume Matcher Project</a></h4>
+      <p>An automated tool to match and rank resumes against job descriptions using advanced similarity scoring.</p>
+      <p>
+        <img src="https://img.shields.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 <a href="https://github.com/hithesh916/MY-PORTFOLIOO">MY PORTFOLIO</a></h4>
+      <p>A premium, interactive developer portfolio showcasing key works, accomplishments, and tech capabilities.</p>
+      <p>
+        <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏙️ <a href="https://github.com/hithesh916/smartcity">Smart City Manager</a></h4>
+      <p>A simulation and administrative app built to monitor, manage, and optimize modern municipal resources.</p>
+      <p>
+        <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📌 <a href="https://github.com/hithesh916/pinBRO-project-web-">pinBRO Web Utility</a></h4>
+      <p>A bookmarking web utility for organizing resources, featuring user categorization and quick link access boards.</p>
+      <p>
+        <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+### 📈 GitHub Statistics & Activity
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
+      <td align="center" valign="top">
         <a href="https://github.com/hithesh916">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=hithesh916&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Hithesh's GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=hithesh916&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Hithesh's GitHub Stats" />
         </a>
       </td>
-      <td>
+      <td align="center" valign="top">
         <a href="https://github.com/hithesh916">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hithesh916&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hithesh916&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
-<hr/>
-
-### 🗂️ Featured Repositories
-
-Here are some of the key projects I've worked on:
-
-*   🔍 **[-Resume-Matcher-Project](https://github.com/hithesh916/-Resume-Matcher-Project)**
-    *   *Description:* An automated tool to match and rank resumes against job descriptions.
-    *   *Tech Stack:* Python, Jupyter Notebook
-*   📌 **[pinBRO-project-web-](https://github.com/hithesh916/pinBRO-project-web-)**
-    *   *Description:* A web-based utility for managing pinboards or user bookmarks.
-    *   *Tech Stack:* HTML, CSS
-*   💼 **[MY-PORTFOLIOO](https://github.com/hithesh916/MY-PORTFOLIOO)**
-    *   *Description:* A premium interactive developer portfolio displaying projects and experience.
-    *   *Tech Stack:* TypeScript, CSS
-*   🏙️ **[smartcity](https://github.com/hithesh916/smartcity)**
-    *   *Description:* A smart city management or simulation application.
-    *   *Tech Stack:* TypeScript, HTML
-*   📈 **[learn-data-analytics](https://github.com/hithesh916/learn-data-analytics)**
-    *   *Description:* Learning repository with various data analytics exercises and algorithms.
-    *   *Tech Stack:* JavaScript, HTML
 
 <hr/>
 
