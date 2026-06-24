@@ -100,10 +100,13 @@ I love building things that live on the internet — apps that are fast, beautif
 
 ---
 
-## 🏆 GitHub Trophies
+## 🃏 GitHub Profile at a Glance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hithesh916&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hithesh916&theme=tokyonight" width="24%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hithesh916&theme=tokyonight" width="24%" alt="Most Committed Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hithesh916&theme=tokyonight" width="24%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hithesh916&theme=tokyonight&utcOffset=5.5" width="24%" alt="Productive Time" />
 </div>
 
 ---
