@@ -7,6 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=hithesh916&color=7B2FBE&style=flat-square&label=Profile+Views" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/hithesh916?label=Followers&style=flat-square&color=7B2FBE&logo=github" alt="GitHub followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=flat-square&logo=google-chrome&logoColor=white" alt="Open to Work" />
 
   <br/><br/>
 
@@ -48,6 +50,7 @@ I love building things that live on the internet — apps that are fast, beautif
 - 🧠 &nbsp;Exploring **Machine Learning** & advanced data pipelines
 - 🌱 &nbsp;Always leveling up in **system design** and **clean architecture**
 - 💬 &nbsp;Ask me about **JavaScript, Python, React, or data visualization**
+- 📫 &nbsp;Reach me at **[LinkedIn](https://www.linkedin.com/in/hithesh-sundararajan/)** or **your.email@example.com**
 - ⚡ &nbsp;Fun fact: I obsess over performance, clean code, and great UX
 
 <br clear="right"/>
@@ -76,10 +79,31 @@ I love building things that live on the internet — apps that are fast, beautif
 
 <br/>
 
+### 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=python,r&perline=6&theme=dark" alt="Data Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+<br/><br/>
+
 ### 🔧 Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres&perline=6&theme=dark" alt="Tools" />
 
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hithesh916&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -170,6 +194,12 @@ I love building things that live on the internet — apps that are fast, beautif
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hithesh916&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hithesh916&bg_color=0D1117&color=A855F7&line=7B2FBE&point=ffffff&area=true&area_color=7B2FBE&hide_border=true" alt="Contribution Graph" />
 </div>
 
@@ -185,10 +215,30 @@ I love building things that live on the internet — apps that are fast, beautif
   </picture>
 </div>
 
-<br/>
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
+
+  <p>I'm always open to interesting conversations, collaboration, and new opportunities. Feel free to reach out!</p>
+
+  <a href="https://www.linkedin.com/in/hithesh-sundararajan/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/hithesh916" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br/><br/>
+
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
 </div>
 
 <!-- BOTTOM WAVE FOOTER -->
