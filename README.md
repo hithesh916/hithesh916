@@ -50,27 +50,27 @@ I am a passionate **Full Stack Developer** and **Data Analytics Enthusiast** bas
     <td valign="top" width="33%">
       <h4 align="center">💻 Languages</h4>
       <p align="center">
-        <img src="https://img.shields.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
-        <img src="https://img.shields.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
-        <img src="https://img.shields.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
-        <img src="https://img.shields.shields.io/badge/html5-%23E34C26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
-        <img src="https://img.shields.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/>
-        <img src="https://img.shields.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br/>
+        <img src="https://img.shields.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/>
+        <img src="https://img.shields.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/>
+        <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br/>
+        <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br/>
+        <img src="https://img.shields.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">🚀 Frameworks & Libs</h4>
       <p align="center">
-        <img src="https://img.shields.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /><br/>
-        <img src="https://img.shields.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br/>
+        <img src="https://img.shields.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
       </p>
     </td>
     <td valign="top" width="33%">
       <h4 align="center">🔧 Tools & Workflow</h4>
       <p align="center">
-        <img src="https://img.shields.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /><br/>
-        <img src="https://img.shields.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
-        <img src="https://img.shields.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        <img src="https://img.shields.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /><br/>
+        <img src="https://img.shields.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br/>
+        <img src="https://img.shields.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       </p>
     </td>
   </tr>
@@ -83,49 +83,37 @@ I am a passionate **Full Stack Developer** and **Data Analytics Enthusiast** bas
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>
-        <img src="https://img.icons8.com/color/28/000000/python.png" align="left" style="margin-right: 8px;" />
-        &nbsp;<a href="https://github.com/hithesh916/-Resume-Matcher-Project">Resume Matcher Project</a>
-      </h4>
+      <h4>🔍 <a href="https://github.com/hithesh916/-Resume-Matcher-Project">Resume Matcher Project</a></h4>
       <p>An automated tool to match and rank resumes against job descriptions using advanced similarity scoring.</p>
       <p>
-        <img src="https://img.shields.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+        <img src="https://img.shields.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>
-        <img src="https://img.icons8.com/color/28/000000/typescript.png" align="left" style="margin-right: 8px;" />
-        &nbsp;<a href="https://github.com/hithesh916/MY-PORTFOLIOO">MY PORTFOLIO</a>
-      </h4>
+      <h4>💼 <a href="https://github.com/hithesh916/MY-PORTFOLIOO">MY PORTFOLIO</a></h4>
       <p>A premium, interactive developer portfolio showcasing key works, accomplishments, and tech capabilities.</p>
       <p>
-        <img src="https://img.shields.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>
-        <img src="https://img.icons8.com/color/28/000000/smart-home.png" align="left" style="margin-right: 8px;" />
-        &nbsp;<a href="https://github.com/hithesh916/smartcity">Smart City Manager</a>
-      </h4>
+      <h4>🏙️ <a href="https://github.com/hithesh916/smartcity">Smart City Manager</a></h4>
       <p>A simulation and administrative app built to monitor, manage, and optimize modern municipal resources.</p>
       <p>
-        <img src="https://img.shields.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.shields.io/badge/html5-%23E34C26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>
-        <img src="https://img.icons8.com/color/28/000000/pin.png" align="left" style="margin-right: 8px;" />
-        &nbsp;<a href="https://github.com/hithesh916/pinBRO-project-web-">pinBRO Web Utility</a>
-      </h4>
+      <h4>📌 <a href="https://github.com/hithesh916/pinBRO-project-web-">pinBRO Web Utility</a></h4>
       <p>A bookmarking web utility for organizing resources, featuring user categorization and quick link access boards.</p>
       <p>
-        <img src="https://img.shields.shields.io/badge/html5-%23E34C26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
     </td>
   </tr>
