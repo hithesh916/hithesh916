@@ -50,7 +50,7 @@ I love building things that live on the internet — apps that are fast, beautif
 - 🧠 &nbsp;Exploring **Machine Learning** & advanced data pipelines
 - 🌱 &nbsp;Always leveling up in **system design** and **clean architecture**
 - 💬 &nbsp;Ask me about **JavaScript, Python, React, or data visualization**
-- 📫 &nbsp;Reach me at **[LinkedIn](https://www.linkedin.com/in/hithesh-sundararajan/)** or **your.email@example.com**
+- 📫 &nbsp;Reach me at **[LinkedIn](https://www.linkedin.com/in/hithesh-sundararajan/)** or **vshithesh@gmail.com**
 - ⚡ &nbsp;Fun fact: I obsess over performance, clean code, and great UX
 
 <br clear="right"/>
